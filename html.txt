@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+  <!--  This source code is exported from pxCode, you can get more document from https://www.pxcode.io  -->
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+    <!-- Please DO NOT remove this line, all link and script tags will be merged to here -->
+
+    <link rel="stylesheet" type="text/css" href="/css/common.css" />
+    <link rel="stylesheet" type="text/css" href="/css/fonts.css" />
+    <link rel="stylesheet" type="text/css" href="/css/Lostcityy.css" />
+
+    <script type="text/javascript" src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/headroom.js@0.12.0/dist/headroom.min.js"></script>
+  </head>
+
+  <body class="flex-column">
+    <main class="lostcityy main">
+      <div class="item">
+        <!-- ======= section1 ======= --> 
+        <section class="section1__section1">
+          <div class="section1__group">
+            <div class="section1__rect1"></div>
+            <div class="section1__row">
+              <h4 class="section1__highlights">創作緣由</h4>
+              <div class="spacer"></div>
+              <h4 class="section1__highlights">作品一覽</h4>
+              <div class="spacer1"></div>
+              <h4 class="section1__highlights1">關於我們</h4>
+            </div>
+          </div>
+          <div class="section1__group">
+            <img class="section1__cover3" src="/assets/f99e7a809a2a9f2d2a4f0c3836a08d3c.png" alt="alt text" />
+            <div class="section1__group1">
+              <div class="section1__group2">
+                <div class="section1__group2">
+                  <img class="section1__decorator" src="/assets/b5fae2612ef007b713f72669799b13ee.png" alt="alt text" />
+                  <div class="section1__content_box2"><h5 class="section1__highlights2">發展心理學</h5></div>
+                  <div class="section1__content_box3"><h5 class="section1__highlights21">互動裝置</h5></div>
+                </div>
+                <div class="section1__content_box1"><h5 class="section1__highlights22">未來</h5></div>
+              </div>
+              <div class="section1__content_box"><h5 class="section1__highlights23">系統錯誤</h5></div>
+            </div>
+          </div>
+        </section>
+        <!-- ======= End section1 ======= --> 
+
+      </div>
+      <div class="item">
+        <!-- ======= section2 ======= --> 
+        <section class="section2__section2">
+          <div class="section2__col">
+            <div class="section2__content_box4" style="--src:url(/assets/fb8da3d6bc52fb2cccd649103b744796.png)">
+              <img class="section2__image1" src="/assets/451452a5d04e94cf1fdfa9d65fb9da85.png" alt="alt text" />
+              <h5 class="section2__highlights1">
+                   「我好寂寞，有人願意和我說話嗎?」這句話在網際網路剛普及的2004年，成為網路搜尋引擎最熱門的議題，這個議題至今仍然存在，且相較８年前又更為嚴重。這個系統崩壞在二十年後若還沒解決會變成什麼樣子呢？<br /><br />
+                 以此作為創作動機，我們參考現今科技冷漠的現象並以誇大、具體化的表現方式設計世界觀與各個角色。 \r<br />
+              </h5>
+              <div class="section2__wrapper">
+                <h2 class="section2__medium_title">創作緣由</h2>
+                <img class="section2__icon2" src="/assets/24bbf09acbbcee1a92343ea322c0b7a7.png" alt="alt text" />
+              </div>
+            </div>
+            <div class="section2__content_box5" style="--src:url(/assets/c184dedaa94328b9e0f649091426c0a2.png)">
+              <img class="section2__image7" src="/assets/49e5172684c3199b690baf538de11dbf.png" alt="alt text" />
+              <h5 class="section2__highlights11">
+                  台灣大學生網路成癮盛行率為20.3℅，每五位就有一位有網路成癮的問題，研究發現與同儕互動不活絡與網路成癮息息相關（楊淳斐2016)。<br /><br />
+                  我們想以大學生為我們的目標族群，我們想將這樣的展示放置於學校的空間內，讓這些與同儕活動不活絡的大學生，有機會在這個空間裡，與他人建立關係。\r<br />
+              </h5>
+              <div class="section2__wrapper1">
+                <h2 class="section2__medium_title">目標族群</h2>
+                <img class="section2__icon2" src="/assets/24bbf09acbbcee1a92343ea322c0b7a7.png" alt="alt text" />
+              </div>
+            </div>
+            <div class="section2__content_box6" style="--src:url(/assets/606639ed80a4a103068b6b4082f9e435.png)">
+              <div class="section2__row">
+                <div class="section2__content_box41" style="--src:url(/assets/7849c02d2fdbb51a8168562437b4ca51.png)">
+                  <img class="section2__image" src="/assets/dda785f84c7b064e88003d06e5062db7.png" alt="alt text" />
+                </div>
+                <div class="item">
+                  <div class="section2__col1">
+                    <h3 class="section2__subtitle">下載企劃書</h3>
+                    <h3 class="section2__subtitle1">查看更多 !</h3>
+                  </div>
+                </div>
+              </div>
+              <h5 class="section2__highlights12">
+                  電梯在客觀認知上為密閉且壓迫的空間，即使為同一個群體中的成員也鮮少在此有互動交流。因此運用的這項媒材，希望賦予電梯使人際更緊密的新意象。<br /><br />
+                  遊戲遊玩方式以雙人合作的方式進行，過程中兩位玩家會接受到不同的訊息，並被賦予不同的能力，兩位玩家需透過討論合作以完成遊戲任務。我們希望能透過這款遊戲增加雙人的互動與交流
+              </h5>
+              <div class="section2__wrapper">
+                <h2 class="section2__medium_title">創意策略</h2>
+                <img class="section2__icon2" src="/assets/24bbf09acbbcee1a92343ea322c0b7a7.png" alt="alt text" />
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- ======= End section2 ======= --> 
+
+      </div>
+      <div class="item">
+        <!-- ======= section3 ======= --> 
+        <section class="section3__section3">
+          <div class="section3__content_box8">
+            <h3 class="section3__subtitle1">放置完成作品即展出成果照片<br />(因尚未完成目前先空著)</h3>
+          </div>
+        </section>
+        <!-- ======= End section3 ======= --> 
+
+      </div>
+      <div class="item">
+        <!-- ======= section4 ======= --> 
+        <section class="section4__section4">
+          <div class="section4__rect"></div>
+          <div class="section4__col">
+            <div class="section4__row">
+              <div class="section4__col1">
+                <div class="section4__row1">
+                  <div class="section4__col2">
+                    <div class="section4__col3">
+                      <div class="section4__row1">
+                        <div class="item">
+                          <img
+                            class="section4__image8"
+                            src="/assets/9b431e61e156dbce7cab98473b904bd0.png"
+                            alt="alt text"
+                          />
+                        </div>
+                        <div class="spacer"></div>
+                        <h1 class="section4__title">關於我們</h1>
+                      </div>
+                      <h5 class="section4__highlights5">我們來自臺北科技大學互動設計系二年級，專題展覽.......</h5>
+                    </div>
+                    <div class="section4__row2">
+                      <div class="item">
+                        <img
+                          class="section4__icon1"
+                          src="/assets/689fe7cdb2eee8b6943fc1c72d537fb3.png"
+                          alt="alt text"
+                        />
+                      </div>
+                      <div class="item1">
+                        <div class="section4__col4">
+                          <h5 class="section4__highlights4">許佳欣</h5>
+                          <h5 class="section4__highlights3">藝術指導</h5>
+                          <div class="section4__text">動畫製作、主視覺、角色設計</div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="section4__row3">
+                      <div class="item">
+                        <img
+                          class="section4__icon1"
+                          src="/assets/689fe7cdb2eee8b6943fc1c72d537fb3.png"
+                          alt="alt text"
+                        />
+                      </div>
+                      <div class="item1">
+                        <div class="section4__col5">
+                          <h5 class="section4__highlights41">蕭榕</h5>
+                          <h5 class="section4__highlights3">音樂編導</h5>
+                          <div class="section4__text">音效設計、背景音樂製作</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="spacer1"></div>
+                  <div class="section4__col6">
+                    <div class="section4__row1">
+                      <div class="item1">
+                        <img
+                          class="section4__icon1"
+                          src="/assets/689fe7cdb2eee8b6943fc1c72d537fb3.png"
+                          alt="alt text"
+                        />
+                      </div>
+                      <div class="item2">
+                        <div class="section4__col7">
+                          <h5 class="section4__highlights42">楊舒茵</h5>
+                          <h5 class="section4__highlights31">技術總監</h5>
+                          <div class="section4__text">企畫書製作、程式設計</div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="section4__col8">
+                      <div class="item">
+                        <img
+                          class="section4__image4"
+                          src="/assets/2f72dd18ebf8684a08b21e04a73280b8.png"
+                          alt="alt text"
+                        />
+                      </div>
+                      <div class="item">
+                        <img
+                          class="section4__image5"
+                          src="/assets/c6b03178bc5d0fe19496287005e02993.png"
+                          alt="alt text"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="section4__content_box10">
+                  <div class="section4__row4">
+                    <div class="section4__content_box9" style="--src:url(/assets/3af344d10eeaa438d8b9ae159572f3e0.png)">
+                      <img class="section4__icon4" src="/assets/100f02e985278646fbc5e0cfb1c9f9ec.png" alt="alt text" />
+                    </div>
+                    <h4 class="section4__highlights6">查看更多</h4>
+                  </div>
+                </div>
+              </div>
+              <div class="spacer"></div>
+              <div class="item">
+                <img class="section4__image2" src="/assets/20208e615d9502a14ba71162b0c8a0cb.png" alt="alt text" />
+              </div>
+            </div>
+            <div class="section4__row5">
+              <div class="section4__col9">
+                <div class="item">
+                  <img class="section4__image6" src="/assets/5414e2bb1ebdb9f1b163c9ea14b8a438.png" alt="alt text" />
+                </div>
+                <div class="item">
+                  <img class="section4__image3" src="/assets/b58cee4f2c1eb86a3dd3e1551d01b0ef.png" alt="alt text" />
+                </div>
+              </div>
+              <div class="spacer"></div>
+              <div class="section4__col10">
+                <div class="section4__row1">
+                  <h3 class="section4__subtitle1">©</h3>
+                  <div class="spacer2"></div>
+                  <h5 class="section4__highlights2">111學年第一學期 國立臺北科技大學 互動設計系 專題製作</h5>
+                </div>
+                <h5 class="section4__highlights21">學員：許佳欣、楊舒茵、蕭榕<br />指導老師：張瑞光</h5>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- ======= End section4 ======= --> 
+
+      </div>
+    </main>
+    <script type="text/javascript">
+      AOS.init();
+    </script>
+  </body>
+</html>
